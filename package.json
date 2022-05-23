@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "cmd": "node src/app.js",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
